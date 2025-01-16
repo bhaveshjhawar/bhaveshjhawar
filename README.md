@@ -19,7 +19,7 @@
 
 ## 💼 Professional Journey  
 
-- **Frontend Developer** @ **Versai Technology OPC Private Limited**  
+- **Fullstack Developer** @ **Versai Technology OPC Private Limited**  
    _Delivering pixel-perfect UI, developing full-stack applications, and bringing impactful ideas to life._
 
 ---
